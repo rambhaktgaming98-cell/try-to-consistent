@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0035-search-insert-position) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0035-search-insert-position) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
