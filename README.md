@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0067-add-binary) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -51,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0067-add-binary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String Matching
 |  |
@@ -99,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1260-shift-2d-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
