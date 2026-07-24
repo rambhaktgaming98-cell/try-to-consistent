@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0069-sqrtx) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0069-sqrtx) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
