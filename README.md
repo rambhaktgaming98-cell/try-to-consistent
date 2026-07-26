@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0070-climbing-stairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3312-sorted-gcd-pair-queries) |
 | [3536-maximum-product-of-two-digits](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3536-maximum-product-of-two-digits) |
@@ -113,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
