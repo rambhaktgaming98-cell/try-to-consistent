@@ -1,4 +1,6 @@
-# Thats my first repo where i learn and sometimes use of ai to do dsa solution if you find any better approach than mysolution plss be let me know and also explain the solution :)
+#  This is my first repository where I document my solutions to LeetCode problems. I sometimes use AI to help me understand complex logic, but my main goal is to improve my own problem-solving skills.
+
+If you look at my code and know a better or more optimized approach, please let me know! I would love it if you could explain your solution so I can learn from it. :)
 
 # try-to-consistent
 
