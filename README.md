@@ -1,4 +1,7 @@
+# Thats my first repo where i learn and sometimes use of ai to do dsa solution if you find any better approach than mysolution plss be let me know and also explain the solution :)
+
 # try-to-consistent
+
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
