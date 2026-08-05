@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0217-contains-duplicate) |
 | [1260-shift-2d-grid](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3312-sorted-gcd-pair-queries) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0242-valid-anagram) |
 | [3536-maximum-product-of-two-digits](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0242-valid-anagram) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
