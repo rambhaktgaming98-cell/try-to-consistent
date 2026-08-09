@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0387-first-unique-character-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String Matching
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0387-first-unique-character-in-a-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0387-first-unique-character-in-a-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0003-longest-substring-without-repeating-characters) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
