@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0238-product-of-array-except-self) |
 | [1260-shift-2d-grid](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1260-shift-2d-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1480-running-sum-of-1d-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
