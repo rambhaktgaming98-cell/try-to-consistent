@@ -1,5 +1,5 @@
 class Solution {
-  // trick for JIT compiler it make it to execute the code fast 
+    
     static {
         for (int i = 0; i < 500; i++) {
             groupAnagrams(new String[] {""});
