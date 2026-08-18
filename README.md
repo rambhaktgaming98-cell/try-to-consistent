@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0560-subarray-sum-equals-k) |
 | [1260-shift-2d-grid](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1260-shift-2d-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0070-climbing-stairs) |
+| [1512-number-of-good-pairs](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/2652-sum-multiples) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0560-subarray-sum-equals-k) |
+| [1512-number-of-good-pairs](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1512-number-of-good-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1512-number-of-good-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
