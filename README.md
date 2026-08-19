@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0070-climbing-stairs) |
 | [1512-number-of-good-pairs](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1512-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/2652-sum-multiples) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1260-shift-2d-grid) |
+| [1688-count-of-matches-in-tournament](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1688-count-of-matches-in-tournament) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
