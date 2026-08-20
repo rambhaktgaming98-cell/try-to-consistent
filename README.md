@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1688-count-of-matches-in-tournament) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
