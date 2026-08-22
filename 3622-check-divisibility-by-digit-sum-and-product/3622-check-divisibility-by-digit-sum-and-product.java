@@ -10,8 +10,6 @@
             product *= digit;
             temp /= 10;
         }
-
-        // Example: If checking divisibility by (sum + product)
         int total = sum + product;
         return n % total == 0;
     }
