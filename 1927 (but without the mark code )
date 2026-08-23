@@ -1,0 +1,16 @@
+class Solution {
+    public boolean sumGameWithoutQuestionMarks(String num) {
+        int n = num.length();
+        int mid = n / 2;
+        
+        int leftSum = 0;
+        int rightSum = 0;
+
+        for (int i = 0; i < mid; i++) {
+            leftSum += num.charAt(i) - '0';
+            rightSum += num.charAt(i + mid) - '0';
+        }
+
+        return leftSum != rightSum;
+    }
+}
