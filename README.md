@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0387-first-unique-character-in-a-string) |
+| [0940-distinct-subsequences-ii](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1872-stone-game-viii) |
 ## Memoization
 |  |
