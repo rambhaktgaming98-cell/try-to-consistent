@@ -272,12 +272,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0094-binary-tree-inorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0094-binary-tree-inorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0094-binary-tree-inorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
