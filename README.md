@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0560-subarray-sum-equals-k) |
+| [0835-image-overlap](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1260-shift-2d-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1512-number-of-good-pairs) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
