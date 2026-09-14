@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0070-climbing-stairs) |
+| [0836-rectangle-overlap](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1688-count-of-matches-in-tournament) |
 | [1872-stone-game-viii](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1872-stone-game-viii) |
@@ -293,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
