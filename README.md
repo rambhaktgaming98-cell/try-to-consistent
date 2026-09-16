@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1512-number-of-good-pairs) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1688-count-of-matches-in-tournament](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1688-count-of-matches-in-tournament) |
 | [1872-stone-game-viii](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1927-sum-game) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3312-sorted-gcd-pair-queries) |
 | [3903-smallest-stable-index-i](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3903-smallest-stable-index-i) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rambhaktgaming98-cell/try-to-consistent/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
